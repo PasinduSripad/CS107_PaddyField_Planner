@@ -1,0 +1,3 @@
+PADDY FIELD SYSTEM - FUNCTIONAL REQUIREMENTS BASELINE
+
+Drafting core system capabilities including user authentication modules and field tracking parameters.
