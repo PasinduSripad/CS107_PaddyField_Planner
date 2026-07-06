@@ -1,0 +1,4 @@
+Plaintext
+PADDY FIELD MANAGEMENT SYSTEM - USER MANUAL
+Draft Version 1.0. Outlining installation prerequisites and system launch validation controls.
+Commit Message: Setting up documentation framework for user operational manual.
